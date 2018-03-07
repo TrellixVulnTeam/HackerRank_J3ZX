@@ -1,6 +1,5 @@
 #!/bin/python3
 
-import sys
 
 def getWaysDict(n, c, dict):
     if n < 0:
@@ -10,23 +9,26 @@ def getWaysDict(n, c, dict):
     elif n in dict:
         return dict[n]
     elif n == min(c):
-        dict[min(c)]=1
+        dict[min(c)] = 1
         return 1
     else:
         res = 0
         for coin in c:
-            res += getWaysDict(n-coin, c, dict)
+            res += getWaysDict(n - coin, c, dict)
             if n not in c:
                 res -= getWaysDict(coin, c, dict) - 1
         dict[n] = res
         return res
 
+
 def getWaysMem(sum, coins, coin_num):
     pass
+
 
 def getWays(n, c):
     res = getWaysDict(n, c, {})
     print(res)
+
 
 n, m = input().strip().split(' ')
 n, m = [int(n), int(m)]

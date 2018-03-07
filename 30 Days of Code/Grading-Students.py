@@ -1,7 +1,5 @@
 #!/bin/python3
 
-import sys
-
 
 def solve(grades):
     # Complete this function

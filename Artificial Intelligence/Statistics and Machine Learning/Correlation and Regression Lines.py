@@ -1,9 +1,10 @@
 import numpy as np
 from numpy.linalg import *
-x=np.array([[15,12,8,8,7,7,7,6,5,3]])
-y=np.array([[10,25,17,11,13,17,20,13,9,15]])
-x=x.transpose()
-y=y.transpose()
+
+x = np.array([[15, 12, 8, 8, 7, 7, 7, 6, 5, 3]])
+y = np.array([[10, 25, 17, 11, 13, 17, 20, 13, 9, 15]])
+x = x.transpose()
+y = y.transpose()
 
 # 1 correlation coefficient
 x_mean = np.mean(x)
@@ -24,7 +25,7 @@ m, c = lstsq(A, y, rcond=None)[0]
 print(m, c)
 
 # 3 predict score
-score= 10*m + c
+score = 10 * m + c
 print(score)
 
-# 4 
+# 4

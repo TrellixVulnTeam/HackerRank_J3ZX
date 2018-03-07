@@ -1,7 +1,7 @@
 #!/usr/bin/python
-def displayPathtoPrincess(n,grid):
-    b=[]
-    p=[]
+def displayPathtoPrincess(n, grid):
+    b = []
+    p = []
     for i in range(len(grid)):
         if 'm' in grid[i]:
             b.append(i)
@@ -14,20 +14,21 @@ def displayPathtoPrincess(n,grid):
             p.append(i)
     while b[0] < p[0]:
         print("DOWN")
-        b[0]+=1
+        b[0] += 1
     while b[0] > p[0]:
         print("UP")
-        b[0]-=1
+        b[0] -= 1
     while b[1] > p[1]:
         print("LEFT")
-        b[1]-=1
+        b[1] -= 1
     while b[1] < p[1]:
         print("RIGHT")
-        b[1]+=1
+        b[1] += 1
+
 
 m = int(input())
 grid = []
 for i in range(0, m):
     grid.append(input().strip())
 
-displayPathtoPrincess(m,grid)
+displayPathtoPrincess(m, grid)
