@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Linked List.py" afterPath="$PROJECT_DIR$/30 Days of Code/Linked List.py" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/More Linked Lists.py" afterPath="$PROJECT_DIR$/30 Days of Code/More Linked Lists.py" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" afterPath="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" afterPath="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +16,8 @@
       <file leaf-file-name="4-largest-palindrome-product.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="252">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -34,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,8 +36,8 @@
       <file leaf-file-name="6-sum-square-difference.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="42">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -342,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1520409155434</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3 more challenges from Project Euler">
+      <created>1520428664107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1520428664107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -375,7 +375,8 @@
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="finished" />
     <MESSAGE value="3 challenges from Project Euler" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 challenges from Project Euler" />
+    <MESSAGE value="3 more challenges from Project Euler" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 more challenges from Project Euler" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -433,12 +434,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py</url>
-          <line>24</line>
+          <line>22</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py</url>
-          <line>6</line>
+          <line>4</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
@@ -806,8 +807,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="252">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -823,15 +824,15 @@
     <entry file="file://$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
