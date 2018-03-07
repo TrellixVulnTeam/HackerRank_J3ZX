@@ -11,7 +11,7 @@ for a0 in range(t):
         continue
     else:
         i = 3
-        while i < n**0.5+2:
+        while i < n ** 0.5 + 2:
             if n % i == 0:
                 n //= i
                 i = 3

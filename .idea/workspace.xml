@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/1-multiples-of-3-and-5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Bitwise AND.py" afterPath="$PROJECT_DIR$/30 Days of Code/Bitwise AND.py" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Extra-Long-Factorials.py" afterPath="$PROJECT_DIR$/30 Days of Code/Extra-Long-Factorials.py" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Grading-Students.py" afterPath="$PROJECT_DIR$/30 Days of Code/Grading-Students.py" />
       <change beforePath="$PROJECT_DIR$/30 Days of Code/Linked List.py" afterPath="$PROJECT_DIR$/30 Days of Code/Linked List.py" />
       <change beforePath="$PROJECT_DIR$/30 Days of Code/More Linked Lists.py" afterPath="$PROJECT_DIR$/30 Days of Code/More Linked Lists.py" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/Nested Logic.py" afterPath="$PROJECT_DIR$/30 Days of Code/Nested Logic.py" />
-      <change beforePath="$PROJECT_DIR$/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" afterPath="$PROJECT_DIR$/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Dynamic Programming/The Coin Change Problem.py" afterPath="$PROJECT_DIR$/Algorithms/Dynamic Programming/The Coin Change Problem.py" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Greedy/Goodland-Electricity.py" afterPath="$PROJECT_DIR$/Algorithms/Greedy/Goodland-Electricity.py" />
-      <change beforePath="$PROJECT_DIR$/Artificial Intelligence/Bot Building/Bot saves princess.py" afterPath="$PROJECT_DIR$/Artificial Intelligence/Bot Building/Bot saves princess.py" />
-      <change beforePath="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" afterPath="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" />
-      <change beforePath="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" afterPath="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" afterPath="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" afterPath="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,22 +19,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="2-even-fibonacci-numbers.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py">
+    <leaf>
+      <file leaf-file-name="4-largest-palindrome-product.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <state relative-caret-position="294">
+              <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-largest-prime-factor.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py">
+      <file leaf-file-name="5-smallest-multiple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="6-sum-square-difference.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,12 +96,14 @@
         <option value="$PROJECT_DIR$/ProjectEuler+/1-multiples-of-3-and-5.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" />
+        <option value="$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py" />
+        <option value="$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py" />
+        <option value="$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="42" />
-    <option name="y" value="-20" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -175,8 +179,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3-largest-prime-factor">
+  <component name="RunManager" selected="Python.5-smallest-multiple">
     <configuration name="1-multiples-of-3-and-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,56 +261,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Correlation and Regression Lines" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4-largest-palindrome-product" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectEuler+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Laptop Battery Life" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="5-smallest-multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectEuler+" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Correlation and Regression Lines" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Laptop Battery Life" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1-multiples-of-3-and-5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.2-even-fibonacci-numbers" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3-largest-prime-factor" />
+      <item index="0" class="java.lang.String" itemvalue="Python.1-multiples-of-3-and-5" />
+      <item index="1" class="java.lang.String" itemvalue="Python.2-even-fibonacci-numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.3-largest-prime-factor" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4-largest-palindrome-product" />
+      <item index="4" class="java.lang.String" itemvalue="Python.5-smallest-multiple" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3-largest-prime-factor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2-even-fibonacci-numbers" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1-multiples-of-3-and-5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Laptop Battery Life" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Correlation and Regression Lines" />
+        <item index="0" class="java.lang.String" itemvalue="Python.5-smallest-multiple" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4-largest-palindrome-product" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3-largest-prime-factor" />
+        <item index="3" class="java.lang.String" itemvalue="Python.2-even-fibonacci-numbers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1-multiples-of-3-and-5" />
       </list>
     </recent_temporary>
   </component>
@@ -331,25 +335,31 @@
       <option name="project" value="LOCAL" />
       <updated>1519151480488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3 challenges from Project Euler">
+      <created>1520409155434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520409155434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
-    <editor active="true" />
+    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.128125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2611465" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3236212" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32343584" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33506763" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34040296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3361082" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33510074" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -364,7 +374,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished" />
+    <MESSAGE value="3 challenges from Project Euler" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 challenges from Project Euler" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -372,17 +383,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/30 Days of Code/Extra-Long-Factorials.py</url>
-          <line>5</line>
+          <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/30 Days of Code/Extra-Long-Factorials.py</url>
-          <line>7</line>
+          <line>4</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Algorithms/Greedy/Goodland-Electricity.py</url>
-          <line>7</line>
+          <line>5</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -402,7 +413,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/30 Days of Code/Bitwise AND.py</url>
-          <line>3</line>
+          <line>1</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -412,13 +423,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProjectEuler+/1-multiples-of-3-and-5.py</url>
-          <line>5</line>
+          <line>3</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py</url>
-          <line>5</line>
+          <line>3</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -428,44 +449,15 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="34" />
+      <option name="time" value="39" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Artificial Intelligence/Bot Building/Bot saves princess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,7 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -499,7 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,9 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,9 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,9 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,9 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#31#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,7 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -819,15 +792,46 @@
     <entry file="file://$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="294">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
